@@ -26,7 +26,7 @@ A dedicated problem solver with leadership experience, strong analytical thinkin
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nimish_tiwari17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nimish Tiwari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NimishTiwa91875) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NimishTiwari17) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nimish Tiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nimishtiwari18@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nimish_tiwari17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimish-t-24b1aa201/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NimishTiwa91875) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NimishTiwari17)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nimishtiwari18@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
